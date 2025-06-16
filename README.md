@@ -32,10 +32,10 @@ This project is an intelligent chatbot system built using **Next.js**, **OpenAI'
 ## 🔧 Local Setup
 
 ```bash
-git clone https://github.com/yourusername/resume-chatbot
-cd resume-chatbot
+git clone https://github.com/heshara2000/MCP-Server-Application-Development.git
+cd mcp-frontend
 npm install
-touch .env
+touch .env.local
 # Add your OpenAI key to .env.local :
 # OPENAI_API_KEY=your-key
 npm run dev
