@@ -15,16 +15,6 @@ This project is an intelligent chatbot system built using **Next.js**, **OpenAI'
 - `pdf-parse` for resume parsing
 - Deployed on Vercel / Render
 
-## 📁 Folder Structure
-📂 mcp-frontend
-├── 📂 app
-│ └── 📂 api
-│ └── chat
-│ └── route.js
-├── 📂 lib
-│ ├── chat.js
-│ └── resumeParser.js
-├── 📄 public/resume.pdf
 
 
 
